@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project1_Spellcheck/Project1.cpp
+stdio.h
+-
+stdint.h
+-
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project1_Spellcheck/Project1.h
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project1_Spellcheck/main.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+Project1.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project1_Spellcheck/Project1.h
+
